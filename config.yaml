@@ -1,0 +1,19 @@
+# config.yaml
+# Capture region: set to null for full screen, or provide dict with top, left, width, height
+capture_region: null
+
+# Template matching confidence (0.0 - 1.0)
+confidence: 0.8
+
+# Wait time (seconds) after clicking the skip button
+skip_wait_after: 1.5
+
+# Main loop interval (seconds) when no action is taken
+loop_interval: 0.3
+
+# Global hotkeys (modifier keys separated by '+')
+hotkey_start: "ctrl+shift+s"
+hotkey_stop: "ctrl+shift+x"
+
+# Log level: DEBUG, INFO, WARNING, ERROR
+log_level: "INFO"
