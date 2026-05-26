@@ -168,4 +168,3 @@ MIT 许可证。仅供非商业、教育用途。
 
 *OpenCV, PyAutoGUI, MSS, pynput – great open‑source libraries.  
 The Genshin Impact community for inspiration.*
-```
