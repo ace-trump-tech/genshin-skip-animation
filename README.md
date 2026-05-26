@@ -1,7 +1,7 @@
 # 原神动画跳过工具 / Genshin Impact Auto-Skip Animation
 
 > **免责声明 / Disclaimer**  
-> 本工具由”源批之星“鲁健友情贡献，仅用于**教育目的**，不修改游戏内存或网络数据包。但任何第三方自动化工具都可能违反游戏服务条款，导致账号被封禁。**请务必在废弃的小号上测试，主号使用风险自负。**  
+> 本工具由 **“源批之星”鲁健** 友情贡献，仅用于 **教育目的**，不修改游戏内存或网络数据包。但任何第三方自动化工具都可能违反游戏服务条款，导致账号被封禁。**请务必在废弃的小号上测试，主号使用风险自负。**  
 > *This tool is for **educational purposes only**. It does not modify game memory or network packets. However, any third‑party automation may violate the game's Terms of Service and could lead to account suspension. **Always test on a disposable alt account. Use on your main account at your own risk.***
 
 ---
